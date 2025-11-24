@@ -4,7 +4,9 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[25.6.1]"
+    "UiPath.Persistence.Activities": "[1.7.0]",
+    "UiPath.System.Activities": "[25.6.1]",
+    "UiPath.UIAutomation.Activities": "[25.10.12]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -47,6 +49,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "dc3729af-1f76-47a7-aa34-bcd256bf8421",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Workflow.cs",
+      "uniqueId": "15b26976-f622-47c4-adb9-dfe94e7088e2",
       "input": [],
       "output": []
     }

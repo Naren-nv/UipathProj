@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vpu8HvNlX0SEAAUViS8KAw" Reference="HYtMAb_DIEiEIVAAjrmAKg/3NxUuSsKD0SDbc5VCqg2HA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="2fe9cd38-33e9-41db-830c-99480c344289" CvElementArea="1011, 479, 405, 41" CvType="InputBox" DesignTimeRectangle="1016, 474, 396, 46" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelFirstName' /&gt;" FuzzySelectorArgument="&lt;webctrl id='JdYOA' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="b51d1b12-1826-486d-a2e0-42069024e5bd" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="2fe9cd38-33e9-41db-830c-99480c344289" CvTextArea="1015, 456, 65, 12" CvTextArgument="First Name" CvType="Text" DesignTimeRectangle="1016, 454, 64, 17" ElementType="Text" FullSelectorArgument="&lt;webctrl innertext='First Name' visibleinnertext='First Name' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='First Name' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='First Name' /&gt;" Guid="85844839-e7c7-40ae-be01-1fb6afc17dbc" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="20209481ecf5800a5829d503f032eb65.png" xmlns="">0EAyshZYTW02ZZdlrqJOP-g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Highlight</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
